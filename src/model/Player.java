@@ -4,6 +4,8 @@
  */
 package model;
 
+import view.Game;
+
 import java.awt.Color;
 import java.awt.Graphics;
 

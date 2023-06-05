@@ -4,6 +4,9 @@
  */
 package view;
 
+import model.GameInterface;
+import model.GameObject;
+
 import java.awt.Graphics;
 import java.util.ArrayList;
 import java.util.Random;

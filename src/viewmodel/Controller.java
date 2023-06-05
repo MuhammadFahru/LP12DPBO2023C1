@@ -4,6 +4,8 @@
  */
 package view;
 
+import model.GameObject;
+
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;

@@ -4,6 +4,10 @@
  */
 package view;
 
+import model.GameObject;
+import model.Player;
+import model.Target;
+
 import java.awt.Canvas;
 import java.awt.Color;
 import java.awt.Font;
