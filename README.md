@@ -20,3 +20,7 @@ Alasan saya menggunakan MVVM dikarenakan beberapa hal, yaitu diantaranya:
   Salah satu keunggulan MVVM adalah adanya two-way data binding, yang memungkinkan perubahan pada View secara otomatis diteruskan ke ViewModel, dan sebaliknya.
 - Fleksibel
   Dalam MVVM, antara Front-End sebagai desainer antarmuka dan Back-End sebagai pengembang logika bisnis bisa bekerja secara independen dan juga lebih mudah dalam berkolaborasi dikarenakan adanya ViewModel yang menjadi perantara
+
+## Perbedaan LP 12 dan TMD
+
+Untuk Latihan Praktikum 12 dan Tugas Masa Depan secara struktur file tidak ada perbedaan karena saya sendiri mengadaptasi LP12 untuk base project TMD. Jadi secara konsep masih sama menggunakan MVVM dan struktur folder dan file yang sama.
